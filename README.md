@@ -34,5 +34,5 @@ I enjoy turning data into insights, building intelligent systems, and working on
 
 ### 📫 Get in touch
 - **LinkedIn:** https://www.linkedin.com/in/nahyung-kwon/
-- **GitHub:** https://github.com/nahyungkwon
+- **GitHub:** https://github.com/aprilgozib
 - **Email:** aprilgozib@gmail.com
